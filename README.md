@@ -45,22 +45,18 @@ Each student record contains:
 
 When the program starts, the following menu is shown:
 
-```text
 1. Add Student
 2. View All Students
 3. Search Student by ID
 4. Update Student Details
 5. Delete Student
 6. Exit
-```
 
 ## How to Run the Project
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/your-username/student-record-management-system.git
-```
+git clone https://github.com/gyash7995-oss/Student-Record-Management-System.git
 
 2. Open the project folder in VS Code.
 
@@ -69,19 +65,16 @@ git clone https://github.com/your-username/student-record-management-system.git
 4. Choose an option from the menu.
 
 ## Example Usage
-
-```text
 Enter your choice: 1
 
 Enter Student ID: 101
-Enter Name: Yash
-Enter Age: 17
+Enter Name: shravya
+Enter Age: 18
 Enter Course: Python
-Enter Email: yash@example.com
+Enter Email: shravya@example.com
 Enter Marks: 85
 
 Student added successfully.
-```
 
 ## Input Validation
 
@@ -111,13 +104,9 @@ By building this project, I learned:
 
 - Use SQLite database instead of CSV
 - Add login system for admin
-- Build a graphical user interface
-- Add sorting by name or marks
-- Add student result calculation
-- Add unit tests
 
 ## Author
 
 YASH GUPTA
 
-GitHub: https://github.com/your-
+GitHub: https://github.com/gyash7995-oss
