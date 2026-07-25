@@ -165,7 +165,7 @@ def delete_student():
 
 while True:
     print("\n--- Student Record Management System ---")
-    print("1. Create CSV File")
+    print("1. Create CSV File if file not exist ")
     print("2. Add Student")
     print("3. View All Students")
     print("4. Search Student by ID")
