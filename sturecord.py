@@ -1,7 +1,5 @@
 import csv
-
 FILE_NAME = "students.csv"
-
 
 def create_file():
     file = open(FILE_NAME, "w", newline="")
@@ -164,7 +162,7 @@ def delete_student():
 
 
 while True:
-    print("\n--- Student Record Management System ---")
+    print("Student Record Management System")
     print("1. Create CSV File if file not exist ")
     print("2. Add Student")
     print("3. View All Students")
