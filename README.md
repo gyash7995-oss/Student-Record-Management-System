@@ -1,5 +1,5 @@
 # Student-Record-Management-System
-## My first class 12th project: a student record management system, and the first start of something legendary.
+## My first class 12th project: a student record management system, and the *start* of something legendary.
 A simple command-line based Student Record Management System built using Python.
 
 This project helps users manage student records using CRUD operations. Student data is stored in a CSV file.
